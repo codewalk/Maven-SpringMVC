@@ -7,3 +7,6 @@ Command Used:
 3. mvn package : To create War/Jar
 
 4. mvn jetty:run-war : To deploy war on embeded Jetty server
+
+
+Article Used: http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/
